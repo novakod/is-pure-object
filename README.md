@@ -2,7 +2,7 @@
 
 ![tests](https://img.shields.io/github/actions/workflow/status/novakod/is-pure-object/tests.yml)
 [![npm](https://img.shields.io/npm/v/@novakod/is-pure-object)](https://www.npmjs.com/package/@novakod/is-pure-object)
-![license](https://img.shields.io/npm/l/novakod%2Fis-pure-object)
+![license](https://img.shields.io/npm/l/@novakod/is-pure-object)
 
 Here is an example:
 
