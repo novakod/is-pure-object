@@ -1,0 +1,22 @@
+{
+  "name": "@novakod/is-pure-object",
+  "version": "1.0.0",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/novakod/is-pure-object.git"
+  },
+  "homepage": "https://github.com/novakod/is-pure-object#readme",
+  "author": {
+    "name": "Movsar Khalakhoev"
+  },
+  "type": "module",
+  "scripts": {
+    "dev": "vite",
+    "build": "tsc && vite build",
+    "release": "npm publish --access public"
+  },
+  "devDependencies": {
+    "typescript": "^5.2.2",
+    "vite": "^4.5.0"
+  }
+}
